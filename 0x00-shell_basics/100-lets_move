@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *[[:UPPERCASE:]] /tmp/u
+cp [[:upper:]]* /tmp/u
